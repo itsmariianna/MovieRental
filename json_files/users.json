@@ -1,0 +1,20 @@
+{
+    "string": {
+        "username": "string",
+        "password": "string",
+        "email": "user@example.com",
+        "hashed_password": "$2b$12$LhsQ7lsWeJoTD3KYet1lvusqPOCdjkF7pcAB4jFZyQvzV3awqYt6a"
+    },
+    "username": {
+        "username": "username",
+        "password": "password",
+        "email": "user@example.com",
+        "hashed_password": "$2b$12$uxshbUcbTm8sADdw6puHJeZWRD5Dpdi0jNC7qTJDl88YzTnQ9K4bq"
+    },
+    "string1": {
+        "username": "string1",
+        "password": "string1",
+        "email": "user1@example.com",
+        "hashed_password": "$2b$12$K870nz4jyBr928WxBWZSc.6iH9ZcFnkJTvfqAc1tMR82otGe7TI0O"
+    }
+}
